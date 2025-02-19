@@ -1,0 +1,5 @@
+D:\Visio studio\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visio studio\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.AssemblyInfoInputs.cache
+D:\Visio studio\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.AssemblyInfo.cs
+D:\Visio studio\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.csproj.CoreCompileInputs.cache
+D:\Visio studio\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.sourcelink.json

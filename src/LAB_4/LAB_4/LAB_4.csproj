@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\Nikita\ООП\.sin-OOP_2025.sln-\src\LAB_4\.sin-OOP_2025.sln-.sln" Link=".sin-OOP_2025.sln-.sln" />
+  </ItemGroup>
+
+</Project>

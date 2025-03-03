@@ -1,0 +1,14 @@
+D:\Visio studio\LAB_7\bin\Debug\net8.0\LAB_7.exe
+D:\Visio studio\LAB_7\bin\Debug\net8.0\LAB_7.deps.json
+D:\Visio studio\LAB_7\bin\Debug\net8.0\LAB_7.runtimeconfig.json
+D:\Visio studio\LAB_7\bin\Debug\net8.0\LAB_7.dll
+D:\Visio studio\LAB_7\bin\Debug\net8.0\LAB_7.pdb
+D:\Visio studio\LAB_7\obj\Debug\net8.0\LAB_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visio studio\LAB_7\obj\Debug\net8.0\LAB_7.AssemblyInfoInputs.cache
+D:\Visio studio\LAB_7\obj\Debug\net8.0\LAB_7.AssemblyInfo.cs
+D:\Visio studio\LAB_7\obj\Debug\net8.0\LAB_7.csproj.CoreCompileInputs.cache
+D:\Visio studio\LAB_7\obj\Debug\net8.0\LAB_7.dll
+D:\Visio studio\LAB_7\obj\Debug\net8.0\refint\LAB_7.dll
+D:\Visio studio\LAB_7\obj\Debug\net8.0\LAB_7.pdb
+D:\Visio studio\LAB_7\obj\Debug\net8.0\LAB_7.genruntimeconfig.cache
+D:\Visio studio\LAB_7\obj\Debug\net8.0\ref\LAB_7.dll

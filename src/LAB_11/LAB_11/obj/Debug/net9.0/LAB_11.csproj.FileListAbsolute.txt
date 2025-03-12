@@ -1,0 +1,4 @@
+D:\Visio studio\LAB_11\LAB_11\obj\Debug\net9.0\LAB_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visio studio\LAB_11\LAB_11\obj\Debug\net9.0\LAB_11.AssemblyInfoInputs.cache
+D:\Visio studio\LAB_11\LAB_11\obj\Debug\net9.0\LAB_11.AssemblyInfo.cs
+D:\Visio studio\LAB_11\LAB_11\obj\Debug\net9.0\LAB_11.csproj.CoreCompileInputs.cache

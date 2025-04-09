@@ -1,0 +1,14 @@
+D:\Visio studio\LAB_15\LAB_15\bin\Debug\net9.0\LAB_15.exe
+D:\Visio studio\LAB_15\LAB_15\bin\Debug\net9.0\LAB_15.deps.json
+D:\Visio studio\LAB_15\LAB_15\bin\Debug\net9.0\LAB_15.runtimeconfig.json
+D:\Visio studio\LAB_15\LAB_15\bin\Debug\net9.0\LAB_15.dll
+D:\Visio studio\LAB_15\LAB_15\bin\Debug\net9.0\LAB_15.pdb
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\LAB_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\LAB_15.AssemblyInfoInputs.cache
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\LAB_15.AssemblyInfo.cs
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\LAB_15.csproj.CoreCompileInputs.cache
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\LAB_15.dll
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\refint\LAB_15.dll
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\LAB_15.pdb
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\LAB_15.genruntimeconfig.cache
+D:\Visio studio\LAB_15\LAB_15\obj\Debug\net9.0\ref\LAB_15.dll

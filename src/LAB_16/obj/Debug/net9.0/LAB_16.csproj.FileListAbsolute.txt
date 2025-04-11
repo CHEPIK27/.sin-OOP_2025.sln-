@@ -1,0 +1,14 @@
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\bin\Debug\net9.0\LAB_16.exe
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\bin\Debug\net9.0\LAB_16.deps.json
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\bin\Debug\net9.0\LAB_16.runtimeconfig.json
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\bin\Debug\net9.0\LAB_16.dll
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\bin\Debug\net9.0\LAB_16.pdb
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\LAB_16.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\LAB_16.AssemblyInfoInputs.cache
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\LAB_16.AssemblyInfo.cs
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\LAB_16.csproj.CoreCompileInputs.cache
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\LAB_16.dll
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\refint\LAB_16.dll
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\LAB_16.pdb
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\LAB_16.genruntimeconfig.cache
+E:\Nikita\ООП\ARTEM\LAB_16\LAB_16\obj\Debug\net9.0\ref\LAB_16.dll

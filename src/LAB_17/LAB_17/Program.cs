@@ -7,8 +7,8 @@ class Program
     {
         Console.WriteLine("=== Тестування класу Student ===");
         Student student = new Student();
-        student.Name = "Іван";
-        student.Age = 21;
+        student.Name = "Микита";
+        student.Age = 18;
 
         Console.WriteLine($"Ім'я: {student.Name}, Вік: {student.Age}");
 

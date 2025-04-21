@@ -1,0 +1,14 @@
+D:\Visio studio\LAB_20\LAB_20\bin\Debug\net9.0\LAB_20.exe
+D:\Visio studio\LAB_20\LAB_20\bin\Debug\net9.0\LAB_20.deps.json
+D:\Visio studio\LAB_20\LAB_20\bin\Debug\net9.0\LAB_20.runtimeconfig.json
+D:\Visio studio\LAB_20\LAB_20\bin\Debug\net9.0\LAB_20.dll
+D:\Visio studio\LAB_20\LAB_20\bin\Debug\net9.0\LAB_20.pdb
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\LAB_20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\LAB_20.AssemblyInfoInputs.cache
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\LAB_20.AssemblyInfo.cs
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\LAB_20.csproj.CoreCompileInputs.cache
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\LAB_20.dll
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\refint\LAB_20.dll
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\LAB_20.pdb
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\LAB_20.genruntimeconfig.cache
+D:\Visio studio\LAB_20\LAB_20\obj\Debug\net9.0\ref\LAB_20.dll

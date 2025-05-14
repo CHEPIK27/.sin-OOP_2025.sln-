@@ -1,5 +1,0 @@
-D:\Visio studio\LAB_30(dz)\LAB_30(dz)\obj\Debug\net8.0\LAB_30(dz).GeneratedMSBuildEditorConfig.editorconfig
-D:\Visio studio\LAB_30(dz)\LAB_30(dz)\obj\Debug\net8.0\LAB_30(dz).AssemblyInfoInputs.cache
-D:\Visio studio\LAB_30(dz)\LAB_30(dz)\obj\Debug\net8.0\LAB_30(dz).AssemblyInfo.cs
-D:\Visio studio\LAB_30(dz)\LAB_30(dz)\obj\Debug\net8.0\LAB_30(dz).csproj.CoreCompileInputs.cache
-D:\Visio studio\LAB_30(dz)\LAB_30(dz)\obj\Debug\net8.0\LAB_30(dz).csproj.AssemblyReference.cache
